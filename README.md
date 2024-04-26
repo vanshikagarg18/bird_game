@@ -21,7 +21,7 @@ To run the game locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kumar11jr/bird_game.git
+git clone https://github.com/vanshikagarg18/bird_game.git
 
 # Compile the Java files
 javac *.java
